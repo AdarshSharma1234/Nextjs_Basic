@@ -1,0 +1,8 @@
+
+body{
+    background-image: linear-gradient(to right, rgb(173, 78, 78) , rgba(255, 255, 0, 0.541));
+}
+
+.app-container {
+    min-height: 350px;
+}
